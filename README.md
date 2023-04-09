@@ -31,7 +31,8 @@ const about: IAbout = {
     "TailwindCSS"
   ],
   skillsBackEnd: [
-    "Express.Js",
+    "Node.js",
+    "Express",
     "PostgreSQL",
     "SQL",
     "TypeORM",

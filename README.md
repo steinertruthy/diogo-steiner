@@ -1,4 +1,4 @@
-```TypeScript
+```JavaScript
  interface IAbout {
   name: string,
   age: number,

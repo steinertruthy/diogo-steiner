@@ -1,70 +1,66 @@
 ```TypeScript
+ interface IAbout {
+  name: string,
+  age: number,
+  developer: string,
+  programmingLanguages: string[],
+  skillsFrontEnd: string[],
+  skillsBackEnd: string[],
+  tools: string[],
+  softSkills: string[],
+  contacts: {
+    linkdIn: string,
+    whatsApp: string
+  }
+}
 
-  interface IAbout {
-    name: string,
-    age: number,
-    typeDeveloper: string,
-    programmingLanguages: string[],
-    skillsFrontEnd: string[],
-    skillsBackEnd: string[],
-    tools: string[],
-    softSkills: string [],
-    contacts: {
-      linkdIn: string,
-      whatsApp: string
-    }
-  } 
-  
-  const about: IAbout = {
-    name: "Diogo Steiner",
-    age: 21,
-    typeDeveloper: :"Full Stack developer",
-    programmingLanguages: ["JavaScript", "TypeScript", "Python"],
-    
-    skillsFrontEnd: [
-    "HTML5", 
-    "CSS3", 
-    "JavaScript(E5+)", 
-    "React", 
-    "TypeScript", 
+const about: IAbout = {
+  name: "Diogo Steiner",
+  age: 21,
+  developer: "Full Stack developer",
+  programmingLanguages: ["JavaScript", "TypeScript", "Python"],
+  skillsFrontEnd: [
+    "HTML5",
+    "CSS3",
+    "JavaScript(E6+)",
+    "React",
+    "TypeScript",
     "APIS",
     "CSS-in-JS",
     "Chakra-UI",
     "TailwindCSS"
-    ],
-    
-    skillsBackEnd: [
-      "Express.Js",
-      "PostgreSQL",
-      "SQL",
-      "TypeORM",
-      "TypeScript"
-    ],
-    
-    tools: [
-      "VSCode",
-      "Git",
-      "GitHub",
-      "Pop!_OS",
-      "Slack",
-      "Insomnia",
-      "dbeaver"
-    ],
-    
-    softSkills: [
-      "Communicative",
-      "Work under pressure",
-      "Collaborative",
-      "Resilient",
-      "Ability to solve problems",
-      "Overview"
-    ]
-    
-    contacts: {
-      linkdIn: "https://www.linkedin.com/in/steinerstt/",
-      whatsApp: "(21) 96945-5431"
-    }
+  ],
+  skillsBackEnd: [
+    "Express.Js",
+    "PostgreSQL",
+    "SQL",
+    "TypeORM",
+    "TypeScript",
+    "Python",
+    "Django"
+  ],
+  tools: [
+    "VSCode",
+    "Git",
+    "GitHub",
+    "Pop!_Os",
+    "Slack",
+    "Insomnia",
+    "dbeaver"
+  ],
+  softSkills: [
+    "Communicative",
+    "Work under pressure",
+    "Collaborative",
+    "Resilient",
+    "Ability to solve problems",
+    "Overview"
+  ],
+  contacts: {
+    linkdIn: "https://www.linkedin.com/in/steinerstt/",
+    whatsApp: "(21) 96945-5431"
   }
+}
 ```
 ##
 

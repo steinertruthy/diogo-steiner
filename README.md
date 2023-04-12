@@ -13,8 +13,10 @@ Desenvolvedor Full Stack apaixonado em resolver problemas em forma de algoritmos
   <img alt="Styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img alt="Chakra-UI" src="https://shields.io/badge/chakra--ui-black?logo=chakraui&style=for-the-badge">
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img alt="NextJS" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge">
   <img alt="Express.Js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
  <div>
 
 ### Outras ferramentas

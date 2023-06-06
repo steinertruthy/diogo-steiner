@@ -30,6 +30,9 @@ Desenvolvedor Full Stack apaixonado em resolver problemas em forma de algoritmos
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 <div>
   
+  
+ <br> 
+ <br> 
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-steiner/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521967070205&text=Ol%C3%A1,%20Steiner!%20Achei%20seu%20github%20incr%C3%ADvel,%20podemos%20conversar?%20)

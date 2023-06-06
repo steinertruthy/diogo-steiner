@@ -30,9 +30,6 @@ Desenvolvedor Full Stack apaixonado em resolver problemas em forma de algoritmos
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 <div>
   
-##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steinerstt&show_icons=true&theme=dracula&card_width=1000&include_all_commits=true&count_private=true)
---
 
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steinerstt/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521969455431&text=Ol%C3%A1,%20Steiner!%20Achei%20seu%20github%20incr%C3%ADvel,%20podemos%20conversar?%20)
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-steiner/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521967070205&text=Ol%C3%A1,%20Steiner!%20Achei%20seu%20github%20incr%C3%ADvel,%20podemos%20conversar?%20)
